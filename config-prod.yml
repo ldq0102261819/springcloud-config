@@ -1,1 +1,2 @@
-dev config-prod.yml version 1
+config:
+      info: dev config-prod.yml version 1
